@@ -8,4 +8,7 @@
 ### [1. Hospital Data Analytics](https://github.com/shiva2096/HealthCare-Proof-of-Concept-Hadoop)
 ### [2. Sensex Data Analytics](https://github.com/shiva2096/Sensex-Proof-of-Concept-Hadoop)
 
-
+Models | Rmse
+:-----------: |:-------------:
+Collaborative Filtering | 1.0038
+Hybrid | 1.0013
