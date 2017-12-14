@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Shivansh's Page
 
-You can use the [editor on GitHub](https://github.com/shiva2096/shiva2096.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Here is some of my work as of 15th Nov, 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [1. Product Recommendation System (Big Data Analytics)](https://github.com/Team-HSP/Recommendation-System-Hadoop)
+### [2. Twitter Sentiment Analysis (Big Data Analytics)](https://github.com/Two-Students/Twitter-Analysis-Demonetization)
+### [3. Spam Email Classification using Naive Bayes Algorithm (Data Mining using Hadoop)](https://github.com/shiva2096/Text-Classification-Hadoop-MachineLearning)
 
-### Markdown
+## Proof Of Concepts on Hadoop
+### [1. Hospital Data Analytics](https://github.com/shiva2096/HealthCare-Proof-of-Concept-Hadoop)
+### [2. Sensex Data Analytics](https://github.com/shiva2096/Sensex-Proof-of-Concept-Hadoop)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiva2096/shiva2096.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
