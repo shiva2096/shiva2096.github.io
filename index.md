@@ -1,4 +1,3 @@
-**Here is some of my work as of 9th Jan,2018.**
 
 ## Projects On Machine Learning
 ### [1. Smart Directory Organizer using Tensorflow](https://github.com/shiva2096/Smart-Directory-Organizer)
